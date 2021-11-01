@@ -1,0 +1,151 @@
+body {
+    box-sizing: border-box;
+    background-image: url(Fotos/unnamed.png);
+    background-size: 1800px; /*elementos de fundo do site*/
+
+    
+}
+
+#cabecalho {
+    box-sizing: border-box;
+    font-size: 100px;
+    text-align: center;
+    color: rgb(41, 41, 129);
+    margin: auto;
+    margin-top: 50px;
+
+
+}
+
+.minha_foto {
+    box-sizing: border-box;
+    position: absolute;
+    top: 550px;
+    left: 350px;
+    border-radius: 15%;
+    
+
+    
+
+}
+.foto_fundo {
+    box-sizing: border-box;
+    border-radius: 30%;
+
+}
+head {
+    box-sizing: border-box;
+    position: fixed;
+    position: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    
+}
+
+h2 {
+    box-sizing: border-box;
+    text-align: left;
+    margin-left: 600px;
+    padding-left: 100px;
+    text-indent: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    
+   
+    
+}
+
+.paragrafo1 {
+    box-sizing: border-box;
+    position:absolute;
+    margin-top: 60px;
+    margin-left: 720px;
+    display: block;
+    font-weight: bold;
+    box-sizing: content-box;
+    height: 320px;
+    width: 500px;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    text-indent: 20px;
+    padding: 5px 5px 20px 5px;
+
+}
+
+
+.paragrafo2 {
+    box-sizing: border-box;
+    position: relative;
+    right: 300px;
+    font-weight: bold;
+    box-sizing: content-box;
+    height: 200px;
+    width: 800px;
+    border-style: solid;
+    border-width: 2px;
+    text-align:left;
+    text-indent: 20px;
+    padding: 5 10 20 5;
+    margin-top: 500px;
+    margin-left: 900px;
+}   
+
+
+.foto1 {
+    box-sizing: border-box;
+    position: absolute;
+    left: 1350px;
+    bottom: 50px;
+    border-radius: 10px;
+}
+
+.ensaio {
+    box-sizing: border-box;
+    border-style: none;
+    display: block;
+    position: relative;
+    left: 600px;
+    top: 5px;
+    
+}
+.redes_sociais {
+    box-sizing: border-box;
+    font-size: 15pt;
+    color: blueviolet;
+    position: absolute;
+    margin-left: 1150px;
+    margin-top: -120px;
+}
+
+button {
+    box-sizing: border-box;
+    border-radius: 10%;
+    padding: 20ox;
+    text-decoration: none;
+    position: absolute;
+    margin-left: 1300px;
+    margin: top 200px;
+    
+   
+
+}
+
+.formulario {
+    box-sizing: border-box;
+    position: absolute;
+    margin-right: 100px;
+    color: black;
+    position: absolute;
+    margin-left: -600px;
+    margin-bottom: 200px;
+
+
+
+
+
+
+
+
+
